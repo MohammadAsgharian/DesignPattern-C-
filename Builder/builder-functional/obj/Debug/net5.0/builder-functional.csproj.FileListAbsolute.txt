@@ -1,0 +1,16 @@
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\builder-functional.exe
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\builder-functional.deps.json
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\builder-functional.runtimeconfig.json
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\builder-functional.runtimeconfig.dev.json
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\builder-functional.dll
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\ref\builder-functional.dll
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\bin\Debug\net5.0\builder-functional.pdb
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.csprojAssemblyReference.cache
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.AssemblyInfoInputs.cache
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.AssemblyInfo.cs
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.csproj.CoreCompileInputs.cache
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.dll
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\ref\builder-functional.dll
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.pdb
+E:\Learning\C#\DeisgnPatten_Samples\Builder\builder-functional\obj\Debug\net5.0\builder-functional.genruntimeconfig.cache
